@@ -9,13 +9,23 @@ Flocking simulation based on Java and StdDraw lib
 > - Flocking.java
 > - Renderer.java
 
+![image](https://user-images.githubusercontent.com/81028185/215752959-349942b6-37e8-4b4e-823e-30ed2d8d2aef.png)
+
+
 ## Flocking Patterns
 > included in:
 > - Birds.java
 
+![image](https://user-images.githubusercontent.com/81028185/215752633-a41017b2-71d0-41cc-8634-d6d4a8557c47.png)
+![image](https://user-images.githubusercontent.com/81028185/215752725-c6689747-549d-4019-9ccb-99423add6d00.png)
+
+
 ## Spatial Optimization
 > included in:
 > - Renderer.java
+
+![image](https://user-images.githubusercontent.com/81028185/215752555-96315cc6-4ef0-40fa-b4f5-615311032866.png)
+
 
 ## Library for 2D Vector
 > included in:
